@@ -44,9 +44,9 @@ Mennyi lenne a színház bevétele a pillanatnyilag eladott jegyek alapján? Ír
 | 4  | 2000  |
 | 5  | 1500  |
 
-6. Mivel az emberek általában nem egyedül mennek színházba, ha egy üres hely mellett nincs egy másik üres hely is, akkor azt nehezebben lehet értékesíteni. Határozza meg, és írassa ki a képernyőre, hogy hány ilyen „egyedülálló” üres hely van a nézőtéren!
+6.Mivel az emberek általában nem egyedül mennek színházba, ha egy üres hely mellett nincs egy másik üres hely is, akkor azt nehezebben lehet értékesíteni. Határozza meg, és írassa ki a képernyőre, hogy hány ilyen „egyedülálló” üres hely van a nézőtéren!
 
-7. A színház elektronikus eladási rendszere az érdeklődőknek az üres helyek esetén a hely árkategóriáját jeleníti meg, míg a foglalt helyeket csak egy **„x”** karakterrel jelzi. Készítse el ennek megfelelően a fenti adatokat tartalmazó *szabad.txt* fájlt!
+7.A színház elektronikus eladási rendszere az érdeklődőknek az üres helyek esetén a hely árkategóriáját jeleníti meg, míg a foglalt helyeket csak egy **„x”** karakterrel jelzi. Készítse el ennek megfelelően a fenti adatokat tartalmazó *szabad.txt* fájlt!
 Például:
 ```
 33xxx1x1x1x1xxx22xxx
